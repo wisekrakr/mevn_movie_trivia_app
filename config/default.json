@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://wisekrakr:LKnbFoXGDBwIPPK2@wise-fhztw.mongodb.net/wise?retryWrites=true&w=majority",
+  "jwtSecret": "wise_myJwtSecret"
+}
